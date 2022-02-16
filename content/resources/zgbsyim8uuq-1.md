@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-189-multicore-programming-primer-january-iap-2007/654b56db1405e975304cabcc83b180ee_zgbsyim8uUQ.pdf
+file: /media/courses/6-189-multicore-programming-primer-january-iap-2007/654b56db1405e975304cabcc83b180ee_zgbsyim8uUQ.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file
 uid: 654b56db-1405-e975-304c-abcc83b180ee

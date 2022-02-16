@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Recitations
+ocw_type: CourseSection
 parent_title: Recitations
+parent_type: CourseSection
 parent_uid: 1a727310-1a37-c171-a13d-06e2fa6799d5
 title: Recitation 4
 uid: 7cd1d436-5913-bc67-0135-17e4e021c628
@@ -76,7 +80,7 @@ Internet Archive ([MP4 - 79 MB](http://www.archive.org/download/MIT6.189IAP07/oc
 {{< tdopen colspan="3" >}}
 
 
-[< previous lecture]({{< baseurl >}}/pages/recitations/embed02) | [video index]({{< baseurl >}}/pages/recitations) | [next lecture >]({{< baseurl >}}/pages/recitations/embed04)
+[\< previous lecture]({{< baseurl >}}/pages/recitations/embed02) | [video index]({{< baseurl >}}/pages/recitations) | [next lecture >]({{< baseurl >}}/pages/recitations/embed04)
 
 
 {{< tdclose >}}

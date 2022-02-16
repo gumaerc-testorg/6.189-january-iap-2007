@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Student presentation for a project on multicore programming.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-189-multicore-programming-primer-january-iap-2007/68bf3a79e5d8bc3c79589be08d97eeb6_backgammon_tutor.pdf
+file: /media/courses/6-189-multicore-programming-primer-january-iap-2007/68bf3a79e5d8bc3c79589be08d97eeb6_backgammon_tutor.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: Backgammon Tutor
 uid: 68bf3a79-e5d8-bc3c-7958-9be08d97eeb6

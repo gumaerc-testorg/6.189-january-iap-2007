@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Recitations
+ocw_type: CourseSection
 parent_title: Recitations
+parent_type: CourseSection
 parent_uid: 1a727310-1a37-c171-a13d-06e2fa6799d5
 title: Recitation 5
 uid: 7218054a-105d-1165-49c7-13c2a6626313
@@ -76,7 +80,7 @@ rec5.zip ([ZIP](/courses/electrical-engineering-and-computer-science/6-189-multi
 {{< tdopen colspan="3" >}}
 
 
-[< previous lecture]({{< baseurl >}}/pages/recitations/embed03) | [video index]({{< baseurl >}}/pages/recitations) | [next lecture >]({{< baseurl >}}/pages/recitations/embed05)
+[\< previous lecture]({{< baseurl >}}/pages/recitations/embed03) | [video index]({{< baseurl >}}/pages/recitations) | [next lecture >]({{< baseurl >}}/pages/recitations/embed05)
 
 
 {{< tdclose >}}

@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Supporting file for a student project on multicore programming.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-189-multicore-programming-primer-january-iap-2007/0fc8bd2233e05eda3ab3cc2cdf07bc9c_battery_simulation.swf
+file: /media/courses/6-189-multicore-programming-primer-january-iap-2007/0fc8bd2233e05eda3ab3cc2cdf07bc9c_battery_simulation.swf
 file_type: application/x-shockwave-flash
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Other
 title: battery_simulation
 uid: 0fc8bd22-33e0-5eda-3ab3-cc2cdf07bc9c

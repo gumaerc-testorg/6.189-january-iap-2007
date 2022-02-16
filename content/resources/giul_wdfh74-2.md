@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-189-multicore-programming-primer-january-iap-2007/ae54d3acaa245aa6a69a2007b3ca729e_gIuL_WdfH74.vtt
+file: /media/courses/6-189-multicore-programming-primer-january-iap-2007/ae54d3acaa245aa6a69a2007b3ca729e_gIuL_WdfH74.vtt
 file_type: application/x-subrip
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: ae54d3ac-aa24-5aa6-a69a-2007b3ca729e
