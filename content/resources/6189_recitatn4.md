@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: 1a727310-1a37-c171-a13d-06e2fa6799d5
 resourcetype: Document
 title: Cell Debugging Tools
 uid: be38bd4a-3e44-2c76-4e32-96c85e6c1a0e

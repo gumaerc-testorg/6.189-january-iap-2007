@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Quizzes
 parent_type: CourseSection
+parent_uid: ede72693-4c5d-a06f-7f06-1d6a640fdfe3
 resourcetype: Document
 title: 'Mini-Quiz #1'
 uid: 811fbd3d-8682-6a90-5f99-8d47ce1d99f2

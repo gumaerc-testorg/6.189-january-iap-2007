@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes and Video
 parent_type: CourseSection
+parent_uid: 69885f30-bae5-c693-16fc-5492e4404278
 resourcetype: Document
 title: 'Lecture 11: Parallelizing Compilers'
 uid: d8172b0d-04b6-bd46-2126-dc552bccd52b

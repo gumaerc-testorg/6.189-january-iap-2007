@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Recitations
@@ -72,6 +73,7 @@ related_resources_text: 'Special software is required to use some of the files i
   2 .s files, 19 .c files, 7 .h files and 15 makefile files.)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'R4: Cell Debugging Tools'
 uid: 7328d052-cd18-fe21-76fe-abaafe5eccdb
 video_files:

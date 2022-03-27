@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes and Video
 parent_type: CourseSection
+parent_uid: 69885f30-bae5-c693-16fc-5492e4404278
 resourcetype: Document
 title: 'Lecture 4: Concurrent Programming'
 uid: 473fa522-f1a7-a03c-8913-0c6de55ebc51

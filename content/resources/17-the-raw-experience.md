@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Notes
@@ -12,6 +13,7 @@ related_resources_text: Lecture Notes ([PDF - 1.9 MB](resources/lec17raw "Open i
   a new window."))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: '17: The Raw Experience'
 uid: b684a726-3547-c209-c1eb-fc11694831c9
 video_files:

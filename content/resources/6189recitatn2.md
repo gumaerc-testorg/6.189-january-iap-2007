@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: 1a727310-1a37-c171-a13d-06e2fa6799d5
 resourcetype: Document
 title: Cell Programming Hands-on
 uid: e1bc0a0f-c749-be80-da3a-3b631f7846f0

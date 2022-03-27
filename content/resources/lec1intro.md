@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes and Video
 parent_type: CourseSection
+parent_uid: 69885f30-bae5-c693-16fc-5492e4404278
 resourcetype: Document
 title: 'Lecture 1: Multicore Programming Primer and Programming Competition'
 uid: 9a29dc4e-e216-ec0d-d259-0165e8fd07f9

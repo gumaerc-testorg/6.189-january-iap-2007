@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: 1a727310-1a37-c171-a13d-06e2fa6799d5
 resourcetype: Document
 title: How to install Cell SDK 2.0 with YDL (Yellow Dog Linux)
 uid: 96b793ac-e2ab-9060-e677-965532d58d5e

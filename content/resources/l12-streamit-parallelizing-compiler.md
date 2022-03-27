@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Notes
@@ -16,6 +17,7 @@ related_resources_text: "This section contains documents which are inaccessible 
   \ \"Open in a new window.\")){{< sup \"#\" >}}"
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'L12: StreamIt Parallelizing Compiler'
 uid: 378dea10-2be8-e9ee-e65d-954c647c16d0
 video_files:

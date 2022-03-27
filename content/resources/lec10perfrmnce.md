@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes and Video
 parent_type: CourseSection
+parent_uid: 69885f30-bae5-c693-16fc-5492e4404278
 resourcetype: Document
 title: 'Lecture 10: Performance Monitoring and Optimizations'
 uid: 16195522-ad3c-3c16-aaa3-a8025d14f9c0

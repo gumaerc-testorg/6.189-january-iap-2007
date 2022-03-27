@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Notes
@@ -12,6 +13,7 @@ related_resources_text: Lecture Notes ([PDF](resources/lec7patterns2 "Open in a 
   window."))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'L7: Design Patterns for Parallel Programming II'
 uid: 306cd571-b546-2d37-1644-2dda000bb886
 video_files:

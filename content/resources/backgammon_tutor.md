@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: b639672a-d9ad-956d-f1d8-30e6183298ae
 resourcetype: Document
 title: Backgammon Tutor
 uid: 68bf3a79-e5d8-bc3c-7958-9be08d97eeb6

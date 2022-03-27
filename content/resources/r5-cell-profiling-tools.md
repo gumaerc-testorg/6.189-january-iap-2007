@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Recitations
@@ -17,6 +18,7 @@ related_resources_text: "Special software is required to use some of the files i
   \ and 2 makefile files.)"
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'R5: Cell Profiling Tools'
 uid: cf036c48-9331-1953-f068-7fffa8e76fda
 video_files:

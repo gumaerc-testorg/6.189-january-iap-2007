@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Notes
@@ -12,6 +13,7 @@ related_resources_text: Lecture Notes ([PDF](resources/lec6patterns1 "Open in a 
   window."))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'L6: Design Patterns for Parallel Programming I'
 uid: e551fb0d-383f-0b60-a4cb-1eef41a1c90b
 video_files:

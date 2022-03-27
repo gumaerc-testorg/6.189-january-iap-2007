@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Recitations
@@ -17,6 +18,7 @@ related_resources_text: "Special software is required to use some of the files i
   \ 3 .d files, sim\\_spu.a, 5 .h files, 10 makefile files, and 14 .c files.)"
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'R6: SIMD Programming on Cell'
 uid: 43100f59-29a9-b823-e22a-5f55efec95f5
 video_files:

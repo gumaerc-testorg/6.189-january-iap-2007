@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: b639672a-d9ad-956d-f1d8-30e6183298ae
 resourcetype: Other
 title: batterysimulation
 uid: 3dd5c818-33ef-b445-999e-91d110bbd4b0

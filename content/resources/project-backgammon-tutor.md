@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Projects
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ([PDF](resources/backgammon_tutor "Open in a new window."))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Project: Backgammon Tutor '
 uid: 5c11af59-2dda-a40c-83f7-60df102d3832
 video_files:

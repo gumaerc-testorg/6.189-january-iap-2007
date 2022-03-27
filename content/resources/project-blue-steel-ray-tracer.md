@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Projects
@@ -15,6 +16,7 @@ related_resources_text: 'This section contains documents that are inaccessible t
   ([PDF - 2.7 MB](resources/bluesteel "Open in a new window.")){{< sup "#" >}}'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Project: Blue-steel Ray Tracer '
 uid: f6e6349d-29b5-857e-f6c7-4beac6628d42
 video_files:
