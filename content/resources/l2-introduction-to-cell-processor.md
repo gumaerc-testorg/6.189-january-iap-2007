@@ -5,12 +5,12 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Notes
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Notes and Video
 parent_type: CourseSection
-related_resources_text: Lecture Notes ([PDF - 2.1 MB](resources/lec2cell "Open in
-  a new window."))
+related_resources_text: Lecture Notes ([PDF - 2.1 MB](/courses/6-189-multicore-programming-primer-january-iap-2007/resources/lec2cell))
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
@@ -30,3 +30,6 @@ video_metadata:
 **Instructor:** Michael Perrone, IBM
 
 Subtitles are provided through the generous assistance of Rohan Pai.
+
+
+

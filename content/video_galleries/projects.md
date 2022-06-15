@@ -1,5 +1,7 @@
 ---
 content_type: video_gallery
+description: This section provides information on the team projects of the course
+  along with examples of student presentations.
 is_media_gallery: true
 learning_resource_types:
 - Projects
@@ -59,7 +61,7 @@ We strongly encourage you to take the time and rehearse your presentation at lea
 
 ### Projects
 
-Project Ideas ([PDF]({{< baseurl >}}/resources/project_ideas))
+Project Ideas ({{% resource_link 56017c12-e132-de17-4b20-ab6b176a4823 "PDF" %}})
 
 The videos and presentations in the projects are courtesy of the team members and are used with permission.
 

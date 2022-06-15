@@ -1,5 +1,7 @@
 ---
 content_type: video_gallery
+description: This section provides video lectures from the course along with lecture
+  notes and transcripts.
 is_media_gallery: true
 learning_resource_types:
 - Lecture Notes

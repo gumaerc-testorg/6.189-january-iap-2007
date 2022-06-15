@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Projects
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Projects
@@ -27,3 +28,6 @@ video_metadata:
 **Topics covered:** Speech synthesis
 
 **Instructor/speaker:** Drew Altschul, Joyce Chen, Eric Eisner, Omari Stephens, and Brown Westrick
+
+
+

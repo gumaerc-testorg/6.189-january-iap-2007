@@ -5,12 +5,12 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Notes
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Notes and Video
 parent_type: CourseSection
-related_resources_text: Lecture Notes ([PDF - 1.4 MB](resources/lec15cilk "Open in
-  a new window."))
+related_resources_text: Lecture Notes ([PDF - 1.4 MB](/courses/6-189-multicore-programming-primer-january-iap-2007/resources/lec15cilk))
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
@@ -30,3 +30,6 @@ video_metadata:
 **Instructor:** Bradley Kuszmaul
 
 Subtitles are provided through the generous assistance of Rohan Pai.
+
+
+

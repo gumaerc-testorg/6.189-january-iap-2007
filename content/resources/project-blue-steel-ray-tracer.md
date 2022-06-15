@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Projects
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Projects
@@ -13,7 +14,8 @@ related_resources_text: 'This section contains documents that are inaccessible t
   screen reader software. A "#" symbol is used to denote such documents.
 
 
-  ([PDF - 2.7 MB](resources/bluesteel "Open in a new window.")){{< sup "#" >}}'
+  ([PDF - 2.7 MB](/courses/6-189-multicore-programming-primer-january-iap-2007/resources/bluesteel)){{<
+  sup "#" >}}'
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
@@ -31,3 +33,6 @@ video_metadata:
 **Topics covered:** Blue-steel ray tracer
 
 **Instructor/speaker:** Natalia Chernenko, Michael D'Ambrosio, Scott Fisher, Brian Sweatt, R. J. Ryan, and Leevar Williams
+
+
+

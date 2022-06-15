@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Lecture notes and supporting files for a recitation on Cell debugging
+  tools.
 learning_resource_types:
 - Recitations
 ocw_type: CourseSection
@@ -62,7 +64,7 @@ Internet Archive ([MP4 - 79 MB](http://www.archive.org/download/MIT6.189IAP07/oc
 
 
 **Lecture Notes:  
-**Cell debugging tools ([PDF]({{< baseurl >}}/resources/6189_recitatn4))
+**Cell debugging tools ({{% resource_link be38bd4a-3e44-2c76-4e32-96c85e6c1a0e "PDF" %}})
 
 
 {{< tdclose >}}
@@ -70,7 +72,7 @@ Internet Archive ([MP4 - 79 MB](http://www.archive.org/download/MIT6.189IAP07/oc
 
 
 **Supporting Files:  
-**rec2.zip ([ZIP](/courses/electrical-engineering-and-computer-science/6-189-multicore-programming-primer-january-iap-2007/recitations/rec2.zip)) (The ZIP file contains: 2 .s files, 19 .c files, 7 .h files and 15 makefile files.)
+**rec2.zip ({{% resource_link c16678a1-5c10-14fe-0501-a5fd5189b126 "ZIP" %}}) (The ZIP file contains: 2 .s files, 19 .c files, 7 .h files and 15 makefile files.)
 
 
 {{< tdclose >}}

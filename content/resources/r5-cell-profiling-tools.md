@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Recitations
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Recitations
@@ -12,10 +13,9 @@ parent_type: CourseSection
 related_resources_text: "Special software is required to use some of the files in\
   \ this section: .[zip](/help/faq-technical-requirements/#zip), [.c](/help/faq-technical-requirements/#c),\
   \ [.h](/help/faq-technical-requirements/#h), and [.s](/help/faq-technical-requirements/#s).\n\
-  \n**Lecture Notes:**  \nCell profiling tools ([PDF](resources/6189recitatn5 \"Open\
-  \ in a new window.\"))\n\n**Supporting Files:**  \nrec5.zip ([ZIP](resources/rec5\
-  \ \"Open in a new window.\")) (The ZIP file contains: 2 .s files, common.h, make-obj-file,\
-  \ and 2 makefile files.)"
+  \n**Lecture Notes:**  \nCell profiling tools ([PDF](/courses/6-189-multicore-programming-primer-january-iap-2007/resources/6189recitatn5))\n\
+  \n**Supporting Files:**  \nrec5.zip ([ZIP](/courses/6-189-multicore-programming-primer-january-iap-2007/resources/rec5))\
+  \ (The ZIP file contains: 2 .s files, common.h, make-obj-file, and 2 makefile files.)"
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
@@ -33,3 +33,6 @@ video_metadata:
 **Topics covered:** Cell profiling tools
 
 **Instructor:** Phil Sung
+
+
+

@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Recitations
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Recitations
@@ -20,25 +21,25 @@ related_resources_text: 'Special software is required to use some of the files i
   **Lecture Notes:**
 
 
-  Getting to know Cell ([PDF](resources/recitatn1 "Open in a new window."))
+  Getting to know Cell ([PDF](/courses/6-189-multicore-programming-primer-january-iap-2007/resources/recitatn1))
 
 
-  Take-home lab ([PDF](resources/lab1 "Open in a new window."))
+  Take-home lab ([PDF](/courses/6-189-multicore-programming-primer-january-iap-2007/resources/lab1))
 
 
   **Supporting Files:**
 
 
-  examples.zip ([ZIP](resources/examples "Open in a new window.")) (The ZIP file contains:
-  9 .c files, 10 makefile files, and 3 .h files.)
+  examples.zip ([ZIP](/courses/6-189-multicore-programming-primer-january-iap-2007/resources/examples))
+  (The ZIP file contains: 9 .c files, 10 makefile files, and 3 .h files.)
 
 
-  6181lab1.zip ([ZIP](resources/6189lab1 "Open in a new window.")) (The ZIP file contains:
-  dist.c, common.h, and 2 makefile files.)
+  6181lab1.zip ([ZIP](/courses/6-189-multicore-programming-primer-january-iap-2007/resources/6189lab1))
+  (The ZIP file contains: dist.c, common.h, and 2 makefile files.)
 
 
-  6189lab1sol.zip ([ZIP](resources/6189lab1sol "Open in a new window.")) (The ZIP
-  file contains: dist.c, dist\_spu.c, common.h, and 2 makefile files.)
+  6189lab1sol.zip ([ZIP](/courses/6-189-multicore-programming-primer-january-iap-2007/resources/6189lab1sol))
+  (The ZIP file contains: dist.c, dist\_spu.c, common.h, and 2 makefile files.)
 
 
   **Recitation 2-3** - No video available for this recitation
@@ -47,14 +48,14 @@ related_resources_text: 'Special software is required to use some of the files i
   **Lecture Notes:**
 
 
-  Cell programming hands-on ([PDF](resources/6189recitatn2 "Open in a new window."))
+  Cell programming hands-on ([PDF](/courses/6-189-multicore-programming-primer-january-iap-2007/resources/6189recitatn2))
 
 
   **Supporting Files:**
 
 
-  rec2.zip ([ZIP](resources/rec2 "Open in a new window.")) (The ZIP file contains:
-  2 .s files, 19 .c files, 7 .h files and 15 makefile files.)
+  rec2.zip ([ZIP](/courses/6-189-multicore-programming-primer-january-iap-2007/resources/rec2))
+  (The ZIP file contains: 2 .s files, 19 .c files, 7 .h files and 15 makefile files.)
 
 
   **Recitation 4**
@@ -63,14 +64,14 @@ related_resources_text: 'Special software is required to use some of the files i
   **Lecture Notes:**
 
 
-  Cell debugging tools ([PDF](resources/6189_recitatn4 "Open in a new window."))
+  Cell debugging tools ([PDF](/courses/6-189-multicore-programming-primer-january-iap-2007/resources/6189_recitatn4))
 
 
   **Supporting Files:**
 
 
-  rec2.zip ([ZIP](resources/rec2 "Open in a new window.")) (The ZIP file contains:
-  2 .s files, 19 .c files, 7 .h files and 15 makefile files.)'
+  rec2.zip ([ZIP](/courses/6-189-multicore-programming-primer-january-iap-2007/resources/rec2))
+  (The ZIP file contains: 2 .s files, 19 .c files, 7 .h files and 15 makefile files.)'
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
@@ -102,3 +103,6 @@ video_metadata:
 **Topics covered:** Cell debugging tools
 
 **Instructor:** Phil Sung
+
+
+

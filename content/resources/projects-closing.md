@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Projects
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Projects
@@ -27,3 +28,6 @@ video_metadata:
 **Topics covered:** Closing
 
 **Instructor/speaker:** Saman Amarasinghe and Rodric Rabbah
+
+
+

@@ -5,11 +5,12 @@ end_time: ''
 file: null
 learning_resource_types:
 - Projects
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Projects
 parent_type: CourseSection
-related_resources_text: ([PDF](resources/backgammon_tutor "Open in a new window."))
+related_resources_text: ([PDF](/courses/6-189-multicore-programming-primer-january-iap-2007/resources/backgammon_tutor))
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
@@ -27,3 +28,6 @@ video_metadata:
 **Topics covered:** Backgammon tutor
 
 **Instructor/speaker:** Eddie Scholtz and Mike Fitzgerald
+
+
+

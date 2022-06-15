@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Lecture notes and supporting files for a recitation on Cell programming
+  hands-on.
 learning_resource_types:
 - Recitations
 ocw_type: CourseSection
@@ -54,7 +56,7 @@ David Zhang
 
 **Lecture Notes:**
 
-Cell programming hands-on ([PDF]({{< baseurl >}}/resources/6189recitatn2))
+Cell programming hands-on ({{% resource_link e1bc0a0f-c749-be80-da3a-3b631f7846f0 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -63,7 +65,7 @@ Cell programming hands-on ([PDF]({{< baseurl >}}/resources/6189recitatn2))
 
 **Supporting Files:**
 
-rec2.zip ([ZIP](/courses/electrical-engineering-and-computer-science/6-189-multicore-programming-primer-january-iap-2007/recitations/rec2.zip)) (The ZIP file contains: 2 .s files, 19 .c files, 7 .h files and 15 makefile files.)
+rec2.zip ({{% resource_link c16678a1-5c10-14fe-0501-a5fd5189b126 "ZIP" %}}) (The ZIP file contains: 2 .s files, 19 .c files, 7 .h files and 15 makefile files.)
 
 
 {{< tdclose >}}
