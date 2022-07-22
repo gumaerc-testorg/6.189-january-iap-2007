@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides a course overview and information on meeting
+  times, course highlights, grading, the target student population, and the calendar
+  of lecture topics and lecturers.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 86b89111-2d4f-73a9-d987-11245987bcd3
 ---
