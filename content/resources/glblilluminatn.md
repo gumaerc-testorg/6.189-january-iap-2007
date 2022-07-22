@@ -5,6 +5,7 @@ file: /courses/6-189-multicore-programming-primer-january-iap-2007/d414927f34ea7
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Global Illumination
 uid: d414927f-34ea-7357-b203-f8181f86e620
 ---
 Student presentation for a project on multicore programming.
-

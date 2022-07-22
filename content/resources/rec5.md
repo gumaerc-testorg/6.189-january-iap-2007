@@ -5,6 +5,7 @@ file: /courses/6-189-multicore-programming-primer-january-iap-2007/1e860c102aadb
 file_type: application/zip
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: rec5
 uid: 1e860c10-2aad-bab7-e450-cc9957a60638
 ---
 Supporting files for recitation on multicore programming with Cell.
-

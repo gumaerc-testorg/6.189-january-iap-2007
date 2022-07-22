@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -103,6 +104,4 @@ video_metadata:
 **Topics covered:** Cell debugging tools
 
 **Instructor:** Phil Sung
-
-
 

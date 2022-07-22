@@ -8,6 +8,7 @@ file: /courses/6-189-multicore-programming-primer-january-iap-2007/0e56d30fb5cce
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes and Video
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: 'Lecture 3: Introduction to Parallel Architectures'
 uid: 0e56d30f-b5cc-e40a-429b-63435d2a039a
 ---
 Lecture presentation with an introduction to parallel architectures. Topics include implicit parallelism, superscalar processors, explicit parallelism , shared instruction processors, shared sequencer processors, shared network processors, shared memory processors, and multicore processors.
-

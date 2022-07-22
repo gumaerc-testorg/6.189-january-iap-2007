@@ -6,6 +6,7 @@ file: /courses/6-189-multicore-programming-primer-january-iap-2007/33aa100dc16a3
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Lab 1
 uid: 33aa100d-c16a-30b4-0c43-a0faf2d95ce9
 ---
 Lab exercise intended to familiarize you with the basics of DMA and using SPE threads. 
-

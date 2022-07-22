@@ -9,6 +9,7 @@ file: /courses/6-189-multicore-programming-primer-january-iap-2007/56d952b2cf5c5
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes and Video
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: 'Lecture 2: Introduction to the Cell Processor'
 uid: 56d952b2-cf5c-52c8-9a40-18bd081ac92b
 ---
 Lecture presentation with an introduction to the cell processor. Topics include the motivation for multicore chip design, cell basic design concept, cell hardware overview, cell performance characteristics, cell application affinity, cell software overview, cell software development considerations , and the cell blade.
-

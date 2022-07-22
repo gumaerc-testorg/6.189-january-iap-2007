@@ -7,6 +7,7 @@ file: /courses/6-189-multicore-programming-primer-january-iap-2007/34fc9599295ed
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes and Video
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: 'Lecture 15: Cilk'
 uid: 34fc9599-295e-d0f5-4349-a4d5ff989c2c
 ---
 Lecture presentation on design and analysis of dynamic multithreaded algorithms, and Cilk, a C language for dynamic multithreading with a provably good runtime system. 
-

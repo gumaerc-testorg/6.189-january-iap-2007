@@ -6,6 +6,7 @@ file: /courses/6-189-multicore-programming-primer-january-iap-2007/af439a376ea05
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes and Video
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Lecture 9: Debugging Parallel Programs'
 uid: af439a37-6ea0-5c19-5830-6c7dda1883f7
 ---
 Lecture presentation on debugging parallel programs, common bugs in parallel programming, and the trend in debugging technology.
-

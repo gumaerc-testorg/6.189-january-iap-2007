@@ -5,6 +5,7 @@ file: /courses/6-189-multicore-programming-primer-january-iap-2007/121687a2d86ec
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Quizzes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Mini-Quiz #3'
 uid: 121687a2-d86e-cf47-a24b-3d5a28141fe4
 ---
 Quiz on multicore programming.
-

@@ -5,6 +5,7 @@ file: /courses/6-189-multicore-programming-primer-january-iap-2007/96b793ace2ab9
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: How to install Cell SDK 2.0 with YDL (Yellow Dog Linux)
 uid: 96b793ac-e2ab-9060-e677-965532d58d5e
 ---
 Instructions for installing Cell software for the course recitations.
-

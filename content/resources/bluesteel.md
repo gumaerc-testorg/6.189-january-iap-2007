@@ -5,6 +5,7 @@ file: /courses/6-189-multicore-programming-primer-january-iap-2007/80cc6e28c46b8
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Blue-Steel Ray Tracer
 uid: 80cc6e28-c46b-819b-0ab4-b4cf4ab2825f
 ---
 Student presentation for a project on multicore programming.
-

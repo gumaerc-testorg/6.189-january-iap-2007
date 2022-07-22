@@ -5,6 +5,7 @@ file: /courses/6-189-multicore-programming-primer-january-iap-2007/404bfec2d60c4
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Cell programming mini-reference
 uid: 404bfec2-d60c-41af-4399-fc9d31d6450d
 ---
 Reference guide on Cell programming.
-

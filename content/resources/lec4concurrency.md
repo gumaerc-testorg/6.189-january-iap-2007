@@ -7,6 +7,7 @@ file: /courses/6-189-multicore-programming-primer-january-iap-2007/473fa522f1a7a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes and Video
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: 'Lecture 4: Concurrent Programming'
 uid: 473fa522-f1a7-a03c-8913-0c6de55ebc51
 ---
 Lecture presentation on concurrent programming with an emphasis on correctness, correctness issues with parallel programs, a simpler and easier machine/programming model, Java as a language, and an abstract shared memory machine model .
-

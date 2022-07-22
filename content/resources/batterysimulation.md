@@ -5,6 +5,7 @@ file: /courses/6-189-multicore-programming-primer-january-iap-2007/3dd5c81833efb
 file_type: application/x-shockwave-flash
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: batterysimulation
 uid: 3dd5c818-33ef-b445-999e-91d110bbd4b0
 ---
 Supporting file for a student project on multicore programming.
-

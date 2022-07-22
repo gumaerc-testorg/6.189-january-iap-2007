@@ -5,6 +5,7 @@ file: /courses/6-189-multicore-programming-primer-january-iap-2007/64ec909212c48
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Speech Synthesis
 uid: 64ec9092-12c4-8315-e922-a39582f2af9c
 ---
 Student presentation for a project on multicore programming.
-

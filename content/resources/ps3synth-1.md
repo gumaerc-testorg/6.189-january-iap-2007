@@ -5,6 +5,7 @@ file: /courses/6-189-multicore-programming-primer-january-iap-2007/7831642b36fe7
 file_type: application/x-tar
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ps3synth
 uid: 7831642b-36fe-78e2-c673-4d1ae1ec354b
 ---
 Supporting files for recitation on multicore programming with Cell.
-

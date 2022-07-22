@@ -10,10 +10,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: The Playstation 3
 uid: adbeb3db-95c2-3692-6e16-486413e60217
 ---
 The PLAYSTATION®3 platform was used to teach students about parallel programming and multicore architectures. (Image courtesy of Sony Computer Entertainment, Inc. Used with permission.)
-

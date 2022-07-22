@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -26,6 +27,4 @@ video_metadata:
 ---
 
 Congratulations to the Blue-Steel Ray Tracer group! They were the first place winners of the competition. To learn more about the award ceremony, view the PDF and video.
-
-
 

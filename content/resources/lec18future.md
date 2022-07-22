@@ -5,6 +5,7 @@ file: /courses/6-189-multicore-programming-primer-january-iap-2007/2cd52de5a47b2
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes and Video
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Lecture 18: The Future'
 uid: 2cd52de5-a47b-22d0-2a79-2b8d436cace7
 ---
 Lecture presentation on the future of multicore programming.
-
