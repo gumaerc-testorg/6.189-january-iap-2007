@@ -12,8 +12,10 @@ optional_text: ''
 parent_title: Recitations
 parent_type: CourseSection
 related_resources_text: "Special software is required to use some of the files in\
-  \ this section: .[zip](/help/faq-technical-requirements/#zip), [.c](/help/faq-technical-requirements/#c),\
-  \ [.h](/help/faq-technical-requirements/#h), and [.s](/help/faq-technical-requirements/#s).\n\
+  \ this section: .[zip](https://mitocw.zendesk.com/hc/en-us/articles/4414765070107-Overview-of-Technical-Requirements#zip),\
+  \ [.c](https://mitocw.zendesk.com/hc/en-us/articles/4414765070107-Overview-of-Technical-Requirements#c),\
+  \ [.h](https://mitocw.zendesk.com/hc/en-us/articles/4414765070107-Overview-of-Technical-Requirements#h),\
+  \ and [.s](https://mitocw.zendesk.com/hc/en-us/articles/4414765070107-Overview-of-Technical-Requirements#s).\n\
   \n**Lecture Notes:**  \nSIMD programming on Cell ([PDF](/courses/6-189-multicore-programming-primer-january-iap-2007/resources/6189recitatn6))\n\
   \n**Supporting Files:**  \nrec6.zip ([ZIP](/courses/6-189-multicore-programming-primer-january-iap-2007/resources/rec6))\
   \ (The ZIP file contains: 4 .o files, sim\\_spu, sim, 3 .d files, sim\\_spu.a, 5\
@@ -31,8 +33,6 @@ video_files:
 video_metadata:
   youtube_id: zg1bHfos6U8
 ---
-
 **Topics covered:** SIMD programming on Cell
 
 **Instructor:** Phil Sung
-
