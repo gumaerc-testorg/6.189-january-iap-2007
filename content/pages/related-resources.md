@@ -1,12 +1,12 @@
 ---
 content_type: page
 description: This section contains the related resources for the course.
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
 uid: b44ef382-825f-b86e-00f9-9e1848a2e6a4
 ---
-
 A collection of useful links to additional resources for the Cell processor is provided below.
 
 [Cell SDK 3.1 available from mirror site](http://www.ps3devwiki.com/wiki/Cell_Programming_IBM#Cell_SDK_3.1)
@@ -16,5 +16,3 @@ A collection of useful links to additional resources for the Cell processor is p
 [IBM online course on Cell](http://publib.boulder.ibm.com/infocenter/ieduasst/stgv1r0/index.jsp?topic=/com.ibm.iea.cbe/plugin_coverpage.html)
 
 [IBM hands-on tutorial on Cell programming](http://publib.boulder.ibm.com/infocenter/ieduasst/stgv1r0/index.jsp?topic=/com.ibm.iea.cbe/cbe/1.0/Programming.html)
-
-[Cell Broadband Engine documents from Sony Computer Entertainment](http://pdfstream.manualsonline.com/c/cc14c14d-6bab-413d-b466-247b4810f85b.pdf)
