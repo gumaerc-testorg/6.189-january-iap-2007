@@ -2,6 +2,7 @@
 content_type: resource
 description: Recitation notes on multicore programming with Cell.
 file: /courses/6-189-multicore-programming-primer-january-iap-2007/e1bc0a0fc749be80da3a3b631f7846f0_6189recitatn2.pdf
+file_size: 248181
 file_type: application/pdf
 learning_resource_types:
 - Recitations

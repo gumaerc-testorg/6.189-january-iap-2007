@@ -2,6 +2,7 @@
 content_type: resource
 description: Solutions to a quiz on multicore programming.
 file: /courses/6-189-multicore-programming-primer-january-iap-2007/c767887a80dcc28e773d35fcf14131cd_quiz6_soln.pdf
+file_size: 26155
 file_type: application/pdf
 learning_resource_types:
 - Exams

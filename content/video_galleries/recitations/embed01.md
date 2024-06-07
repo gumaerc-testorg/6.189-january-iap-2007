@@ -82,7 +82,7 @@ examples.zip ({{% resource_link 3096880d-f75a-d632-b500-f56e57a1b607 "ZIP" %}}) 
 {{< tdopen colspan="3" >}}
 
 
-[video index]({{< baseurl >}}/pages/recitations) | [next lecture >]({{< baseurl >}}/pages/recitations/embed02)
+{{% resource_link "1a727310-1a37-c171-a13d-06e2fa6799d5" "video index" %}} | [next lecture >]({{< baseurl >}}/pages/recitations/embed02)
 
 
 {{< tdclose >}}

@@ -6,6 +6,7 @@ description: Lecture presentation with an introduction to the cell processor. To
   cell software overview, cell software development considerations , and the cell
   blade.
 file: /courses/6-189-multicore-programming-primer-january-iap-2007/56d952b2cf5c52c89a4018bd081ac92b_lec2cell.pdf
+file_size: 2241865
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

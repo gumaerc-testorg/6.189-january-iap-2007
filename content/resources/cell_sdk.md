@@ -2,6 +2,7 @@
 content_type: resource
 description: Instructions for installing Cell software for the course recitations.
 file: /courses/6-189-multicore-programming-primer-january-iap-2007/96b793ace2ab9060e677965532d58d5e_cell_sdk.pdf
+file_size: 70237
 file_type: application/pdf
 learning_resource_types:
 - Recitations
