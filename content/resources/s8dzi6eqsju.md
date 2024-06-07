@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-189-multicore-programming-primer-january-iap-2007/1657c1b373997c7d55d71e6563d94aa9_s8dZi6eqsJU.srt
+file_size: 34061
 file_type: application/x-subrip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

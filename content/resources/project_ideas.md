@@ -2,6 +2,7 @@
 content_type: resource
 description: Suggested topics for a course project on multicore programming.
 file: /courses/6-189-multicore-programming-primer-january-iap-2007/56017c12e132de174b20ab6b176a4823_project_ideas.pdf
+file_size: 69171
 file_type: application/pdf
 learning_resource_types:
 - Projects

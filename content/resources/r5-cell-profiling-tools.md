@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 end_time: ''
 file: null
+file_size: '72171432'
 learning_resource_types:
 - Recitations
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -2,6 +2,7 @@
 content_type: resource
 description: Supporting files for recitation on multicore programming with Cell.
 file: /courses/6-189-multicore-programming-primer-january-iap-2007/7831642b36fe78e2c6734d1ae1ec354b_ps3synth.tar
+file_size: 20480
 file_type: application/x-tar
 learning_resource_types:
 - Recitations

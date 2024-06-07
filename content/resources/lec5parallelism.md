@@ -4,6 +4,7 @@ description: Lecture presentation on parallel programming concepts, coverage or 
   of parallelism in algorithms, granularity of data partitioning among processors,
   and locality of computation and communication.
 file: /courses/6-189-multicore-programming-primer-january-iap-2007/d06bb54c931d47ee8d8f6ab447fb0034_lec5parallelism.pdf
+file_size: 433352
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

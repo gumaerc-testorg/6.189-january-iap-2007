@@ -82,7 +82,7 @@ Internet Archive ([MP4 - 79 MB](http://www.archive.org/download/MIT6.189IAP07/oc
 {{< tdopen colspan="3" >}}
 
 
-[\< previous lecture]({{< baseurl >}}/pages/recitations/embed02) | [video index]({{< baseurl >}}/pages/recitations) | [next lecture >]({{< baseurl >}}/pages/recitations/embed04)
+[\< previous lecture]({{< baseurl >}}/pages/recitations/embed02) | {{% resource_link "1a727310-1a37-c171-a13d-06e2fa6799d5" "video index" %}} | [next lecture >]({{< baseurl >}}/pages/recitations/embed04)
 
 
 {{< tdclose >}}

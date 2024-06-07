@@ -75,7 +75,7 @@ rec2.zip ({{% resource_link c16678a1-5c10-14fe-0501-a5fd5189b126 "ZIP" %}}) (The
 {{< tdopen colspan="3" >}}
 
 
-[\< previous lecture]({{< baseurl >}}/pages/recitations/embed01) | [video index]({{< baseurl >}}/pages/recitations) | [next lecture >]({{< baseurl >}}/pages/recitations/embed03)
+[\< previous lecture]({{< baseurl >}}/pages/recitations/embed01) | {{% resource_link "1a727310-1a37-c171-a13d-06e2fa6799d5" "video index" %}} | [next lecture >]({{< baseurl >}}/pages/recitations/embed03)
 
 
 {{< tdclose >}}
