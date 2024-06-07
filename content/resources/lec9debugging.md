@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture presentation on debugging parallel programs, common bugs in parallel
   programming, and the trend in debugging technology.
 file: /courses/6-189-multicore-programming-primer-january-iap-2007/af439a376ea05c1958306c7dda1883f7_lec9debugging.pdf
+file_size: 180214
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

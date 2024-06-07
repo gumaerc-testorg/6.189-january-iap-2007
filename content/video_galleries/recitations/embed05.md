@@ -82,7 +82,7 @@ rec6.zip ({{% resource_link 91d1d7ff-7f74-386e-25a9-ad3981c8cb3b "ZIP" %}}) (The
 {{< tdopen colspan="3" >}}
 
 
-[\< previous lecture]({{< baseurl >}}/pages/recitations/embed04) | [video index]({{< baseurl >}}/pages/recitations)
+[\< previous lecture]({{< baseurl >}}/pages/recitations/embed04) | {{% resource_link "1a727310-1a37-c171-a13d-06e2fa6799d5" "video index" %}}
 
 
 {{< tdclose >}}

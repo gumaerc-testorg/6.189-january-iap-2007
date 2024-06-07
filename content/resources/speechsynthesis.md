@@ -2,6 +2,7 @@
 content_type: resource
 description: Student presentation for a project on multicore programming.
 file: /courses/6-189-multicore-programming-primer-january-iap-2007/64ec909212c48315e922a39582f2af9c_speechsynthesis.pdf
+file_size: 61398
 file_type: application/pdf
 learning_resource_types:
 - Projects

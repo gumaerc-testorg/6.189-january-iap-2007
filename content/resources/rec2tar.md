@@ -2,6 +2,7 @@
 content_type: resource
 description: Supporting files for recitation on multicore programming with Cell.
 file: /courses/6-189-multicore-programming-primer-january-iap-2007/79ef133da8288d904843df2fce3a219e_rec2tar.gz
+file_size: 8049
 file_type: application/x-gzip
 learning_resource_types:
 - Recitations

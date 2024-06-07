@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture presentation on multicore programming, software crises, Moore's
   law, and the course project..
 file: /courses/6-189-multicore-programming-primer-january-iap-2007/9a29dc4ee216ec0dd2590165e8fd07f9_lec1intro.pdf
+file_size: 272518
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
