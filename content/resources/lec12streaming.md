@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture presentation on StreamIt, a high-level, architecture-independent
   language for streaming applications.
-file: /courses/6-189-multicore-programming-primer-january-iap-2007/a5bba5bbfd18c0eb74cbbbc52e860c39_lec12streaming.pdf
+file: /ol-ocw-studio-app/courses/6-189-multicore-programming-primer-january-iap-2007/a5bba5bbfd18c0eb74cbbbc52e860c39_lec12streaming.pdf
 file_size: 430668
 file_type: application/pdf
 learning_resource_types:

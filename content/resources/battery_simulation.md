@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting file for a student project on multicore programming.
-file: /courses/6-189-multicore-programming-primer-january-iap-2007/0fc8bd2233e05eda3ab3cc2cdf07bc9c_battery_simulation.swf
+file: /ol-ocw-studio-app/courses/6-189-multicore-programming-primer-january-iap-2007/0fc8bd2233e05eda3ab3cc2cdf07bc9c_battery_simulation.swf
 file_size: 3715039
 file_type: application/x-shockwave-flash
 learning_resource_types:
