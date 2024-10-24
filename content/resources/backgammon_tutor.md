@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Student presentation for a project on multicore programming.
-file: /courses/6-189-multicore-programming-primer-january-iap-2007/68bf3a79e5d8bc3c79589be08d97eeb6_backgammon_tutor.pdf
+file: /ol-ocw-studio-app/courses/6-189-multicore-programming-primer-january-iap-2007/68bf3a79e5d8bc3c79589be08d97eeb6_backgammon_tutor.pdf
 file_size: 234213
 file_type: application/pdf
 learning_resource_types:
