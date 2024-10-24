@@ -3,7 +3,7 @@ content_type: resource
 description: Lecture presentation on parallelizing compilers, parallel execution,
   dependence analysis, increasing parallelization opportunities, generation of parallel
   loops, and communication code generation.
-file: /courses/6-189-multicore-programming-primer-january-iap-2007/d8172b0d04b6bd462126dc552bccd52b_lec11compilers.pdf
+file: /ol-ocw-studio-app/courses/6-189-multicore-programming-primer-january-iap-2007/d8172b0d04b6bd462126dc552bccd52b_lec11compilers.pdf
 file_size: 953848
 file_type: application/pdf
 learning_resource_types:

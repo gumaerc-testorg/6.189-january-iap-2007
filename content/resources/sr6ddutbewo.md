@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/6-189-multicore-programming-primer-january-iap-2007/d5dbdfea3f2705b5fab921150084c7b9_SR6dDuTbEwo.srt
+file: /ol-ocw-studio-app/courses/6-189-multicore-programming-primer-january-iap-2007/d5dbdfea3f2705b5fab921150084c7b9_SR6dDuTbEwo.srt
 file_size: 48655
 file_type: application/x-subrip
 learning_resource_types: []
