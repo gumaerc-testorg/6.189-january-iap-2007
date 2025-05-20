@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture presentation on parallel performance, performance monitoring,
   optimizations, and single thread performance.
-file: /ol-ocw-studio-app/courses/6-189-multicore-programming-primer-january-iap-2007/16195522ad3c3c16aaa3a8025d14f9c0_lec10perfrmnce.pdf
+file: /courses/6-189-multicore-programming-primer-january-iap-2007/16195522ad3c3c16aaa3a8025d14f9c0_lec10perfrmnce.pdf
 file_size: 1139190
 file_type: application/pdf
 learning_resource_types:

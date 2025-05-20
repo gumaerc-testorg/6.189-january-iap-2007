@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solutions to a quiz on multicore programming.
-file: /ol-ocw-studio-app/courses/6-189-multicore-programming-primer-january-iap-2007/4e9cc6df7794f95abf451d237233c62c_quiz4_soln.pdf
+file: /courses/6-189-multicore-programming-primer-january-iap-2007/4e9cc6df7794f95abf451d237233c62c_quiz4_soln.pdf
 file_size: 20396
 file_type: application/pdf
 learning_resource_types:

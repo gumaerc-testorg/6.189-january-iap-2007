@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture presentation on patterns for parallel programming, supporting
   structures, and communication patterns.
-file: /ol-ocw-studio-app/courses/6-189-multicore-programming-primer-january-iap-2007/f7efaba01ecce00b739c1d4c93396e18_lec7patterns2.pdf
+file: /courses/6-189-multicore-programming-primer-january-iap-2007/f7efaba01ecce00b739c1d4c93396e18_lec7patterns2.pdf
 file_size: 251610
 file_type: application/pdf
 learning_resource_types:

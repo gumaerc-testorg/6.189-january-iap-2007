@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Student presentation for a project on multicore programming.
-file: /ol-ocw-studio-app/courses/6-189-multicore-programming-primer-january-iap-2007/f2adbe780fdedb81d13d1904e3e3d6f3_moleculrdynmcs.pdf
+file: /courses/6-189-multicore-programming-primer-january-iap-2007/f2adbe780fdedb81d13d1904e3e3d6f3_moleculrdynmcs.pdf
 file_size: 360059
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture presentation on design patterns for parallel programming and
   re-engineering for parallelism.
-file: /ol-ocw-studio-app/courses/6-189-multicore-programming-primer-january-iap-2007/9808de6a4c059325b61e8d632f5c9307_lec6patterns1.pdf
+file: /courses/6-189-multicore-programming-primer-january-iap-2007/9808de6a4c059325b61e8d632f5c9307_lec6patterns1.pdf
 file_size: 288802
 file_type: application/pdf
 learning_resource_types:
