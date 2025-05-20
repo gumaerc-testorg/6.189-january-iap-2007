@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting files for recitation on multicore programming with Cell.
-file: /ol-ocw-studio-app/courses/6-189-multicore-programming-primer-january-iap-2007/f669bf8a68062c7f445094a4e150ee16_ps3synth.zip
+file: /courses/6-189-multicore-programming-primer-january-iap-2007/f669bf8a68062c7f445094a4e150ee16_ps3synth.zip
 file_size: 3355
 file_type: application/zip
 learning_resource_types:
