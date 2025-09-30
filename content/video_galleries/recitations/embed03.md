@@ -55,8 +55,8 @@ Phil Sung
 
 
 **Free downloads:**  
-iTunes U ([MP4 - 79 MB](http://deimos3.apple.com/WebObjects/Core.woa/Browse/mit.edu.2210868377.02210868382.2210988989?i=1772471950))  
-Internet Archive ([MP4 - 79 MB](http://www.archive.org/download/MIT6.189IAP07/ocw-6.189-iap07-rec04_300k.mp4))
+iTunes U ({{% resource_link "43719222-8d95-4298-b718-570ff3922f0e" "MP4 - 79 MB" %}})  
+Internet Archive ({{% resource_link "981004e9-d008-4269-a08c-b8c4c0522799" "MP4 - 79 MB" %}})
 
 
 {{< tdclose >}}
@@ -91,4 +91,4 @@ Internet Archive ([MP4 - 79 MB](http://www.archive.org/download/MIT6.189IAP07/oc
 
 {{< tableclose >}}
 
-[Watch the video on YouTube](http://www.youtube.com/v/SR6dDuTbEwo&showsearch=0&fs=1&showinfo=0)
+{{% resource_link "f9047b72-15bb-49a0-9247-6d5738f45db5" "Watch the video on YouTube" %}}
