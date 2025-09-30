@@ -20,7 +20,7 @@ videos:
 
 Cell programming mini-reference ({{% resource_link "404bfec2-d60c-41af-4399-fc9d31d6450d" "PDF" %}})
 
-How to install Cell SDK 2.0 with [Yellow Dog Linux](https://en.wikipedia.org/wiki/Yellow_Dog_Linux) ({{% resource_link "96b793ac-e2ab-9060-e677-965532d58d5e" "PDF" %}})
+How to install Cell SDK 2.0 with {{% resource_link "8e7b25c5-fa3b-492d-9823-524d2395c77a" "Yellow Dog Linux" %}} ({{% resource_link "96b793ac-e2ab-9060-e677-965532d58d5e" "PDF" %}})
 
 How to get X to work on the PLAYSTATION®3 console ({{% resource_link "2137f722-df94-895c-b9f5-a7ef97e9fce3" "PDF" %}})
 

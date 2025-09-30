@@ -15,9 +15,9 @@ parent_type: CourseSection
 related_resources_text: "This section contains documents which are inaccessible to\
   \ screen reader software due to technical reasons. A \"#\" symbol is used to denote\
   \ such documents.\n\nLecture 12 Notes ([PDF](/courses/6-189-multicore-programming-primer-january-iap-2007/resources/lec12streaming))\n\
-  \n**Lecture 13**  \nVideo is not available for Lecture 13.\n\nLecture 13 Notes ([PDF\
-  \ - 1.9 MB](http://cag.csail.mit.edu/ps3/lectures/6.189-lecture13-starp.pdf \"Open\
-  \ in a new window.\")){{< sup \"#\" >}}"
+  \n**Lecture 13**  \nVideo is not available for Lecture 13.\n\nLecture 13 Notes ({{%\
+  \ resource_link \"2ad348a1-cdec-4536-bbf3-13c202a33465\" \"PDF - 1.9 MB\" %}}){{<\
+  \ sup \"#\" >}}"
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
