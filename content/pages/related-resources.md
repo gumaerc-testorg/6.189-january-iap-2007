@@ -9,10 +9,10 @@ uid: b44ef382-825f-b86e-00f9-9e1848a2e6a4
 ---
 A collection of useful links to additional resources for the Cell processor is provided below.
 
-[Cell SDK 3.1 available from mirror site](http://www.ps3devwiki.com/wiki/Cell_Programming_IBM#Cell_SDK_3.1)
+{{% resource_link "fb4a5792-9713-49ef-b7fc-510a970f5f0c" "Cell SDK 3.1 available from mirror site" %}}
 
-[Yellow Dog Linux for the PLAYSTATION®3](http://www.terrasoftsolutions.com/support/downloads/)
+{{% resource_link "e9cb225f-0488-4959-ae4c-f92be9e9afa8" "Yellow Dog Linux for the PLAYSTATION®3" %}}
 
-[IBM online course on Cell](http://publib.boulder.ibm.com/infocenter/ieduasst/stgv1r0/index.jsp?topic=/com.ibm.iea.cbe/plugin_coverpage.html)
+{{% resource_link "1f916498-db19-43e8-ad1c-ce156f34485e" "IBM online course on Cell" %}}
 
-[IBM hands-on tutorial on Cell programming](http://publib.boulder.ibm.com/infocenter/ieduasst/stgv1r0/index.jsp?topic=/com.ibm.iea.cbe/cbe/1.0/Programming.html)
+{{% resource_link "98b20444-0ec3-43e3-a0e6-a023fd5945f0" "IBM hands-on tutorial on Cell programming" %}}

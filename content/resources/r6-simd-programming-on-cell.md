@@ -13,11 +13,11 @@ optional_text: ''
 parent_title: Recitations
 parent_type: CourseSection
 related_resources_text: "Special software is required to use some of the files in\
-  \ this section: .[zip](https://mitocw.zendesk.com/hc/en-us/articles/4414765070107-Overview-of-Technical-Requirements#zip),\
-  \ [.c](https://mitocw.zendesk.com/hc/en-us/articles/4414765070107-Overview-of-Technical-Requirements#c),\
-  \ [.h](https://mitocw.zendesk.com/hc/en-us/articles/4414765070107-Overview-of-Technical-Requirements#h),\
-  \ and [.s](https://mitocw.zendesk.com/hc/en-us/articles/4414765070107-Overview-of-Technical-Requirements#s).\n\
-  \n**Lecture Notes:**  \nSIMD programming on Cell ([PDF](/courses/6-189-multicore-programming-primer-january-iap-2007/resources/6189recitatn6))\n\
+  \ this section: .{{% resource_link \"9c5f2920-5e02-4451-9f8b-53a56580e8d0\" \"zip\"\
+  \ %}}, {{% resource_link \"bd479516-dd5d-41f9-bac6-50005f92d079\" \".c\" %}}, {{%\
+  \ resource_link \"0e281546-e76e-4e6c-a72d-384d8b2a163e\" \".h\" %}}, and {{% resource_link\
+  \ \"03b4a8fc-ffde-4831-9ad1-4fa78be1dfc9\" \".s\" %}}.\n\n**Lecture Notes:**  \n\
+  SIMD programming on Cell ([PDF](/courses/6-189-multicore-programming-primer-january-iap-2007/resources/6189recitatn6))\n\
   \n**Supporting Files:**  \nrec6.zip ([ZIP](/courses/6-189-multicore-programming-primer-january-iap-2007/resources/rec6))\
   \ (The ZIP file contains: 4 .o files, sim\\_spu, sim, 3 .d files, sim\\_spu.a, 5\
   \ .h files, 10 makefile files, and 14 .c files.)"
